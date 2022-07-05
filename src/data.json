@@ -1,0 +1,42 @@
+{
+  "size": [
+    { "label": "Small", "value": "small" },
+    { "label": "Medium", "value": "medium" },
+    { "label": "Large", "value": "large" }
+  ],
+  "crust": [
+    { "label": "Neapolitan", "value": "neapolitan" },
+    { "label": "New York", "value": "new-york" },
+    { "label": "Gluten-free", "value": "gluten-free" }
+  ],
+  "sauce": ["bbq", "olive-oil", "pesto", "red-sauce"],
+  "cheese": [
+    "mozzarella",
+    "gorgonzola",
+    "parmesan",
+    "vegan-mozzarella"
+  ],
+  "vegetables": [
+    "artichokes",
+    "black-olives",
+    "cilantro",
+    "fresh-basil",
+    "garlic",
+    "grape-tomatoes",
+    "green-peppers",
+    "jalapenos",
+    "mushrooms",
+    "red-onions",
+    "red-peppers"
+  ],
+  "meats": [
+    "meatballs",
+    "chicken",
+    "bacon",
+    "pepperoni",
+    "sausage",
+    "vegan-meatballs",
+    "vegan-sausage"
+  ],
+  "spices": ["black-pepper", "oregano", "sea-salt"]
+}
